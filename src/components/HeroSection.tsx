@@ -98,7 +98,7 @@ const HeroSection = ({ scrollToSection, isMobile }: HeroSectionProps) => {
                             <div className="absolute -inset-1 bg-gradient-to-r from-purple-500 to-blue-500 rounded-3xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200" />
                             <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-3xl overflow-hidden border border-white/10 bg-black/40 backdrop-blur-sm">
                                 <img
-                                    src="https://res.cloudinary.com/dlz3d9gqi/image/upload/v1781890042/piyushhhh_nbbajt.jpg"
+                                
                                     alt="Piyush Gudhe - Full Stack Developer"
                                     loading="lazy"
                                     className="w-full h-full object-cover"
